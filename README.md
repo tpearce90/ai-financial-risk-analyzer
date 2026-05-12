@@ -63,3 +63,49 @@ OpenAI-generated risk analysis using retrieved context
         ↓
 Interactive Streamlit dashboard
 ```
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Main Dashboard](screenshots/Main Dashboard.png)
+
+### Portfolio Allocation
+
+![Where Your Money Is Invested](screenshots/Where Your Money Is Invested.png)
+
+### Portfolio Growth
+
+![How Your Portfolio Grew Over Time](screenshots/How Your Portfolio Grew Over Time.png)
+
+### Investment Risk Breakdown
+
+![Investment Risk Breakdown](screenshots/Investment Risk Breakdown.png)
+
+### Biggest Historical Declines
+
+![Biggest Drops From Previous Highs](screenshots/Biggest Drops From Previous Highs.png)
+
+### Rolling Risk Trends
+
+![How Risk Changed Over Time](screenshots/How Risk Changed Over Time.png)
+
+### Correlation Heatmap
+
+![How Investments Move Together](screenshots/How Investments Move Together.png)
+
+### Portfolio vs Benchmark
+
+![Portfolio vs Market Benchmark](screenshots/Portfolio vs Market Benchmark.png)
+
+### AI Risk Analysis
+
+![AI Portfolio Analysis](screenshots/AI Portfolio Analysis.png)
+
+### Future Portfolio Simulations
+
+![Possible Future Portfolio Paths](screenshots/Possible Future Portfolio Paths.png)
+
+### Future Portfolio Outcomes
+
+![Possible Future Portfolio Outcomes](screenshots/Possible Future Portfolio Outcomes.png)
