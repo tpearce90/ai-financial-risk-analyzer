@@ -44,19 +44,22 @@ The goal is to simulate how an AI-assisted financial risk analyst could combine 
 
 ## Architecture
 
+## Architecture
+
 ```text
-User-selected tickers
+User-selected stock / ETF tickers
         ↓
-Yahoo Finance market data
+Yahoo Finance market data retrieval
         ↓
-Risk metrics and portfolio analytics
+Portfolio risk metrics and analytics
         ↓
 SEC 10-K filing retrieval
         ↓
-Text extraction and risk-section parsing
+Risk-section extraction and text parsing
         ↓
-ChromaDB vector retrieval
+ChromaDB vector storage and retrieval
         ↓
-OpenAI-generated risk analysis
+OpenAI-generated risk analysis using retrieved context
         ↓
-Streamlit dashboard
+Interactive Streamlit dashboard
+```
